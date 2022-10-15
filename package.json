@@ -1,0 +1,25 @@
+{
+  "name": "dev-config",
+  "version": "1.0.0",
+  "description": "A place for everything related to my personal development environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewrh/dev-config.git"
+  },
+  "author": "Drew Hughlett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewrh/dev-config/issues"
+  },
+  "homepage": "https://github.com/drewrh/dev-config#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.40.0",
+    "@typescript-eslint/parser": "^5.40.0",
+    "eslint": "^8.25.0",
+    "prettier": "^2.7.1"
+  }
+}
