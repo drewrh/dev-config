@@ -1,17 +1,14 @@
 {
   "name": "dev-config",
-  "version": "1.0.0",
   "description": "A place for everything related to my personal development environment",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "prettier --write ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/drewrh/dev-config.git"
   },
   "author": "Drew Hughlett",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/drewrh/dev-config/issues"
   },
